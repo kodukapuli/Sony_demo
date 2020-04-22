@@ -3,7 +3,7 @@
 		"$schema": "http://json-schema.org/draft-07/schema",
 		"$comment": "JSON Schema for users table",
 		"$id": "users",
-		"alation-ds":283,
+		"alation-ds":287,
 		"privacy":false,
 		"title": "users",
 		"description": "All system users",
