@@ -4,7 +4,7 @@
 		"$comment": "JSON Schema for users table",
 		"$id": "users",
 		"alation-ds":284,
-		"privacy":false,
+		"privacy":true,
 		"title": "users",
 		"description": "All system users",
 		"type": "object",
